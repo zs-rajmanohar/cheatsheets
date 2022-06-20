@@ -1,5 +1,6 @@
 # Docker Cheatsheet
 https://dockerlabs.collabnix.com/docker/cheatsheet/
+https://docs.docker.com/engine/reference/commandline/image_tag/
 
 This cheatsheet provides a collection of commonly used docker commands.
 
